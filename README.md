@@ -67,4 +67,8 @@ Supabase is an open source alternative to firebase helping in the process of dev
 ## Blogs
 - [Introduction to supabase and Auth](https://aalam.in/blog/supabase-auth-intro-setup-next)
 
+## Videos
+- [Build a social network with Supabase and Vue 3](https://raddevon.com/articles/build-a-social-network-with-supabase-and-vue-3/)
+- [Deploy a Vue 3 Supabase app quick and easy on Netlify](https://raddevon.com/articles/deploy-a-vue-3-supabase-app-on-netlify/)
+
 ###### If you want to add you project here, please create a [pull request](https://github.com/GiovanniSM20/awesome-supabase/compare) for it
